@@ -85,7 +85,7 @@
  *    - EXPF_MAX_POLY_DEGREE
  */
 
-#include "expf_data.h"
+#include "../optmized/expf_data.h"
 
 static const
 struct expf_data expf_v2_data = {
